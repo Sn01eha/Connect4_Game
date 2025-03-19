@@ -10,7 +10,7 @@ Undo/Reset functionality
 
 📦 Installation & Setup
 Clone the repository:
-git clone https://github.com/Sn01eha/connect4.git
+git clone https://github.com/Sn01eha/Connect4_Game.git
 cd connect4
 
 Compile the Java files:
