@@ -10,14 +10,14 @@ Undo/Reset functionality
 
 📦 Installation & Setup
 Clone the repository:
-git clone https://github.com/yourusername/connect4.git
+git clone https://github.com/Sn01eha/connect4.git
 cd connect4
 
 Compile the Java files:
-javac Connect4.java
+javac connect4.java
 
 Run the game:
-java Connect4
+java connect4
 
 🎯 How to Play
 Players take turns dropping their colored pieces into the columns.
